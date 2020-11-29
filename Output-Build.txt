@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: IndividualProject_PartB_Moros_Alkynoos, Configuration: Debug Any CPU ------
+1>  IndividualProject_PartB_Moros_Alkynoos -> C:\Users\a12m1\source\repos\IndividualProject_PartB_Moros_Alkynoos\IndividualProject_PartB_Moros_Alkynoos\bin\Debug\IndividualProject_PartB_Moros_Alkynoos.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
